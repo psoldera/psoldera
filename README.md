@@ -1,7 +1,8 @@
 ### Hello There, I'm Pedro Soldera =D
 
 ##
-Atualmente essas são as tecnlogias que eu mais utilizo, apesar de estar seguindo mais a parte de segurança, ainda desenvolvo =D
+Atualmente essas são as tecnlogias que eu mais utilizo,
+apesar de estar seguindo mais a parte de segurança, ainda desenvolvo =D
 <div style="display: inline_block">
   <img align="center" alt="P-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="P-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
