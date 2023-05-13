@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Pedro</a>
+<h1 align="center">Hello there, I'm Pedro</a><br>
 ![giphy](https://user-images.githubusercontent.com/85132892/234034829-355cb06d-c125-4a84-9eda-238f618a9224.gif)
 ##
 Atualmente essas são as tecnlogias que eu mais utilizo,
