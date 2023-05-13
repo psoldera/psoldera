@@ -1,6 +1,5 @@
 <h1 align="center">Hello there, I'm Pedro</h1>
-![giphy](https://user-images.githubusercontent.com/85132892/234034829-355cb06d-c125-4a84-9eda-238f618a9224.gif)
-##
+
 Atualmente essas são as tecnlogias que eu mais utilizo,
 apesar de estar seguindo mais a parte de segurança, ainda desenvolvo =D
 <div style="display: inline_block">
