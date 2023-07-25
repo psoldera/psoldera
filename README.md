@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Pedro</h1>
+<h1 align="center">Hello there</h1>
 
 <div style="display: inline_block">
   <img align="center" alt="P-C#" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
