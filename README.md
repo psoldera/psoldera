@@ -1,5 +1,5 @@
 ```
-                   -`                    your_username@github
+                   -`                    psoldera@github
                   .o+`                   --------------------
                  `ooo/                   OS: ..................... Linux
                 `+oooo:                  Uptime: ................. 23 years, 8 months
