@@ -2,9 +2,9 @@
                    -`                    psoldera@github
                   .o+`                   --------------------
                  `ooo/                   OS: ..................... Linux
-                `+oooo:                  Uptime: ................. 23 years, 8 months
+                `+oooo:                  Uptime: ................. 23 years
                `+oooooo:                 Host: ................... Shift
-               -+oooooo+:                Kernel: ................. DevOps / DevSecOps Engineer
+               -+oooooo+:                Kernel: ................. DevOps
              `/:-:++oooo+:               IDE: .................... VSCode
             `/++++/+++++++:
            `/++++++++++++++:             Languages.Programming: .. Python, Bash
